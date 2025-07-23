@@ -16,10 +16,16 @@ public class Test
 	{
 		System.out.println("This is div method");
 	}
+
+	public void sub()
+	{
+		System.out.println("This is sub method");
+	}
 	
 	public static void main(String[] args) 
 	{
 		System.out.println("This is main method");
+		
 		
 	}
 }
