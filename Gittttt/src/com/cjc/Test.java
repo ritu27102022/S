@@ -12,6 +12,11 @@ public class Test
 		System.out.println("This is multiplication method");
 	}
 	
+	public void div()
+	{
+		System.out.println("This is div method");
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("This is main method");
